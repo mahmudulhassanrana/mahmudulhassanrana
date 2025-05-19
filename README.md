@@ -1,54 +1,127 @@
-# 👋 Hi, I'm Md. Mahmudul Hassan
+<h1 align="center">👨‍💻 Md. Mahmudul Hassan – Full Stack Software Engineer</h1>
 
-🎯 A results-driven **Software Engineer** with 5+ years of experience in **full-stack web development**, specializing in **PHP (Laravel)** and **Vue.js**.
+[![Profile Views](https://komarev.com/ghpvc/?username=mahmudrana&color=blueviolet)](https://github.com/mahmudrana)
 
-🔭 Currently working at [Bangladesh Association of Software and Information Services (BASIS)](https://basis.org.bd)  
-📍 Based in Dhaka, Bangladesh  
-🌐 [www.mahmudrana.dev](https://www.mahmudrana.dev) | 📧 mahmud_rana@outlook.com | 📱 +880 1764388484  
-🔗 [LinkedIn](https://www.linkedin.com/in/mahmud-rana/) | [Resume](#) <!-- Add your online resume link here -->
+<p align="center">
+  Hello! I'm Mahmud, a Passionate and results-driven Full Stack Developer with 5+ years of experience specializing in building robust, scalable web applications using <strong>PHP</strong>, <strong>Laravel</strong>, <strong>Vue.js</strong>, and modern web technologies. I love crafting clean code, solving real-world problems, and delivering impactful digital solutions across e-commerce, education, B2B, and enterprise platforms.
+</p>
+
+<p align="center">
+  🚀 Let’s connect, collaborate, and create something amazing together!
+</p>
+---
+
+## 🛠 Tech Stack
+
+**Languages & Frameworks**  
+PHP (Laravel, Symfony, CodeIgniter)| JavaScript (Vue 3, React, Inertia.js) | Python (Django – basic) | jQuery | Livewire | Axios | Bootstrap | TailwindCSS | MySQL | RESTful API
+
+**DevOps & Tools**  
+GitHub | DigitalOcean | Asana | ClickUp | Payment Gateway Integration | Docker | Composer | NPM | VSCode | Postma | CI/CD Pipelines | AWS (basic) | Linux | Trello | GitHub Actions
 
 ---
 
-## 🧠 Tech Stack
+## 💼 Projects
 
-**Languages & Frameworks:**
-- PHP (Laravel, Symfony, CodeIgniter), JavaScript (Vue 3, React)
-- Python (Django – basic), HTML5, CSS3, Tailwind, Bootstrap
+### 🛒 E-Commerce Platform  
+**🔗 [Live Demo]([#](https://www.watermelonclothingbd.com/))**  
+A scalable online shopping platform featuring real-time inventory, secure checkout, role-based access, advanced filtering, and a powerful admin dashboard. Built with a modular architecture for easy maintenance and third-party integration.
 
-**Tools & Technologies:**
-- RESTful APIs, MySQL, Git, Docker, Composer, NPM, VSCode, Postman
-- CI/CD Pipelines, AWS (basic), Linux, Trello, GitHub Actions
+**Key Features**  
+- Role-based authentication (Customer, Vendor, Admin)  
+- Advanced product and inventory management  
+- Dynamic search and filters  
+- Multi-step checkout with coupon support  
+- Stripe, PayPal, and local gateway integrations  
+- Real-time order tracking & invoicing  
+- Graphical admin dashboard with analytics  
+- Reviews, ratings, wishlist & mobile optimization  
 
----
-
-## 🚀 Projects
-
-Here are a few highlights from my portfolio:
-
-| Project Name        | Stack              | Description                              |
-|---------------------|--------------------|------------------------------------------|
-| **Japan Desk**      | Laravel + Vue 3    | Multi-language portal with admin panel   |
-| **Lawyer Desk**     | Laravel             | Lawyer directory & appointment system    |
-| **Hire Worker**     | Laravel             | Marketplace for hiring skilled workers   |
-| **E-Shop**          | Django              | E-commerce site with cart & checkout     |
-| **Admission Help**  | Java                | Desktop app for university applications  |
-
-🔗 Check out more in my [Pinned Repositories](https://github.com/yourusername?tab=repositories)
+**Stack:** PHP, Laravel, Livewire, JavaScript, jQuery, Bootstrap, MySQL, RESTful API, DigitalOcean, GitHub, Payment Gateway, ClickUp
 
 ---
 
-## 📈 GitHub Stats
+### 🧾💳 POS Automation System  
+**🔗 [Live Demo](https://watermelon.watermelonitsolutions.com/)**  
+A robust Point of Sale solution for real-time retail operations. Designed for high-performance in busy environments with offline-first capabilities and multi-branch support.
 
-![Mahmud's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=github_dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=github_dark)
+**Key Features**  
+- Barcode scanning, discounts, and tax calculation  
+- Live inventory sync and stock alerts  
+- Customer CRM & loyalty system  
+- Role-based employee access  
+- Profit/Loss reports and sales analytics  
+- Offline support with auto-sync  
+- Custom thermal receipt printing  
+- Multi-branch dashboard  
+
+**Stack:** PHP, Laravel, Vue.js, JavaScript, jQuery, Axios, Bootstrap, MySQL, RESTful API, DigitalOcean, GitHub, Payment Gateway, ClickUp
 
 ---
 
-## 📫 Let's Connect
+### 🎓 Advanced e-Learning Platform  
+**🔗 [Live Demo](http://bitm.org.bd/)**  
+A flexible e-learning system supporting institutions and enterprises. Offers interactive learning via video, quizzes, forums, and live sessions.
 
-- 💼 Open to remote opportunities in **Europe, Africa**, and globally
-- 📬 Reach me via [Email](mailto:mahmud_rana@outlook.com) or [LinkedIn](https://www.linkedin.com/in/mahmud-rana/)
+**Key Features**  
+- Roles: Admin, Instructor, Student  
+- Multimedia course creation  
+- Live classes & on-demand content  
+- Graded quizzes and assignments  
+- Progress tracking & certifications  
+- Discussion forums & gamification  
+- Mobile-friendly & multilingual  
+
+**Stack:** PHP, Laravel, Vue.js, JavaScript, Inertia.js, Axios, TailwindCSS, MySQL, RESTful API, DigitalOcean, GitHub, Payment Gateway, Asana
 
 ---
 
-_“Code is like humor. When you have to explain it, it’s bad.” – Cory House_
+### 🏢 Advanced B2B Platform  
+**🔗 [Live Demo](https://devjapandesk.basis.org.bd/)**  
+Enterprise-grade B2B marketplace for manufacturers, suppliers, and wholesalers. Enables quotation handling, bulk orders, secure transactions, and ERP integrations.
+
+**Key Features**  
+- Custom roles (Admin, Enlist-Member)  
+- Quotation, catalog, and order management  
+- CRM and internal messaging  
+- Multi-currency & multilingual  
+- ERP/API integration  
+- Analytics, real-time inventory  
+
+**Stack:** PHP, Laravel, Vue.js, JavaScript, Inertia.js, Axios, TailwindCSS, MySQL, RESTful API, DigitalOcean, GitHub, Payment Gateway, Asana
+
+---
+
+### 🌌 NASA Space Apps Challenge – Bangladesh  
+**🔗 [Live Demo](https://nsac.basis.org.bd/)**  
+A centralized platform built for managing the NASA Space Apps Challenge Bangladesh edition. Supports organizers, participants, and judges throughout the event lifecycle.
+
+**Key Features**  
+- Region-wise event info and registration  
+- Team formation and project submission  
+- Admin dashboard for event control  
+- Judge & mentor panel with scoring tools  
+- Live updates & result announcements  
+- Optimized for mobile and rural access  
+
+**Stack:** PHP, Laravel, Vue.js, JavaScript, Inertia.js, Axios, TailwindCSS, MySQL, RESTful API, DigitalOcean, GitHub, Asana
+
+---
+
+## 📊 GitHub Stats
+
+![Mahmud's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahmudrana&show_icons=true&theme=tokyonight&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahmudrana&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Connect with Me
+
+- 🌐 **Website:** [www.mahmudrana.dev](https://www.mahmudrana.dev)  
+- 💼 **LinkedIn:** [linkedin.com/in/mahmud-rana](https://www.linkedin.com/in/mahmud-rana)  
+- 📧 **Email:** mahmud_rana@outlook.com  
+
+---
+
+> *“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
