@@ -1,6 +1,5 @@
 <div align="center">
-  <h1>👨‍💻 Md. Mahmudul Hassan</h1>
-  <p style="font-size: 12px;">Full Stack developer from Bangladesh</p>
+  <h1>👨‍💻 Md. Mahmudul Hassan</h1> <p>Full Stack developer from Bangladesh</p>
 </div>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=mahmudulhassanrana&color=blueviolet)](https://github.com/mahmudulhassanrana)
