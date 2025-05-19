@@ -1,4 +1,7 @@
-<h1 align="center">👨‍💻 Md. Mahmudul Hassan<br><span style="font-size: 16px;">Full Stack Software Engineer from Bangladesh</span></h1>
+<div align="center">
+  <h1>👨‍💻 Md. Mahmudul Hassan</h1>
+  <p style="font-size: 12px;">Full Stack developer from Bangladesh</p>
+</div>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=mahmudulhassanrana&color=blueviolet)](https://github.com/mahmudulhassanrana)
 
