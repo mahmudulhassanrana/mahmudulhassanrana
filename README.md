@@ -23,7 +23,8 @@
 ---
 
 ## 🚀 Projects
-**Here are a few highlights from my portfolio**
+
+> *Here are a few highlights from my portfolio*
 
 ### 🛒 E-Commerce Platform  
 **🔗 [Live Demo](https://www.watermelonclothingbd.com/)**  
