@@ -113,9 +113,16 @@ A centralized platform built for managing the NASA Space Apps Challenge Banglade
 
 ## 📊 GitHub Stats
 
-![Mahmud's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahmudrana&show_icons=true&theme=tokyonight&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahmudrana&layout=compact&theme=tokyonight)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=mahmudulhassanrana&show_icons=true&theme=tokyonight&count_private=true" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmudulhassanrana&layout=compact&theme=tokyonight" />
+    </td>
+  </tr>
+</table>
 
 ---
 
