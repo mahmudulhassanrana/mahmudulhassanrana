@@ -3,28 +3,29 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=mahmudrana&color=blueviolet)](https://github.com/mahmudrana)
 
 <p align="center">
-  Hello! I'm Mahmud, a Passionate and results-driven Full Stack Developer with 5+ years of experience specializing in building robust, scalable web applications using <strong>PHP</strong>, <strong>Laravel</strong>, <strong>Vue.js</strong>, and modern web technologies. I love crafting clean code, solving real-world problems, and delivering impactful digital solutions across e-commerce, education, B2B, and enterprise platforms.
+ 👋 Hello! I'm Mahmud, a Passionate and results-driven Full Stack Developer with 5+ years of experience specializing in building robust, scalable web applications using <strong>PHP</strong>, <strong>Laravel</strong>, <strong>Vue.js</strong>, and modern web technologies. I love crafting clean code, solving real-world problems, and delivering impactful digital solutions across e-commerce, education, B2B, and enterprise platforms.
 </p>
 
 <p align="center">
   🚀 Let’s connect, collaborate, and create something amazing together!
 </p>
+
 ---
 
 ## 🛠 Tech Stack
 
 **Languages & Frameworks**  
-PHP (Laravel, Symfony, CodeIgniter)| JavaScript (Vue 3, React, Inertia.js) | Python (Django – basic) | jQuery | Livewire | Axios | Bootstrap | TailwindCSS | MySQL | RESTful API
+- PHP (Laravel, Symfony, CodeIgniter)| JavaScript (Vue 3, React, Inertia.js) | Python (Django – basic) | jQuery | Livewire | Axios | Bootstrap | TailwindCSS | MySQL | RESTful API
 
 **DevOps & Tools**  
-GitHub | DigitalOcean | Asana | ClickUp | Payment Gateway Integration | Docker | Composer | NPM | VSCode | Postma | CI/CD Pipelines | AWS (basic) | Linux | Trello | GitHub Actions
+- GitHub | DigitalOcean | Asana | ClickUp | Payment Gateway Integration | Docker | Composer | NPM | VSCode | Postma | CI/CD Pipelines | AWS (basic) | Linux | Trello | GitHub Actions
 
 ---
 
 ## 💼 Projects
 
 ### 🛒 E-Commerce Platform  
-**🔗 [Live Demo]([#](https://www.watermelonclothingbd.com/))**  
+**🔗 [Live Demo](https://www.watermelonclothingbd.com/)**  
 A scalable online shopping platform featuring real-time inventory, secure checkout, role-based access, advanced filtering, and a powerful admin dashboard. Built with a modular architecture for easy maintenance and third-party integration.
 
 **Key Features**  
@@ -124,4 +125,4 @@ A centralized platform built for managing the NASA Space Apps Challenge Banglade
 
 ---
 
-> *“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
+> *“Turning ideas into clean, scalable code — one commit at a time.”👨‍💻 – Md. Mahmudul Hassan*
