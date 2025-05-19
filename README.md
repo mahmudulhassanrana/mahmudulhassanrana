@@ -1,6 +1,5 @@
-<div align="center">
-  <h1>👨‍💻 Md. Mahmudul Hassan - Full Stack Developer</h1>
-</div>
+<h1 align="center">👨‍💻 Md. Mahmudul Hassan - Full Stack Developer</h1>
+
 
 [![Profile Views](https://komarev.com/ghpvc/?username=mahmudulhassanrana&color=blueviolet)](https://github.com/mahmudulhassanrana)
 
@@ -17,7 +16,7 @@
 ## 🛠 Tech Stack
 
 **Languages & Frameworks**  
-- PHP (Laravel, Symfony, CodeIgniter)| JavaScript (Vue 3, React, Inertia.js) | Python (Django – basic) | jQuery | Livewire | Axios | Bootstrap | TailwindCSS | MySQL | RESTful API
+- PHP (Laravel, Symfony, CodeIgniter, WordPress)| JavaScript (Vue 3, React, Inertia.js) | Python (Django – basic) | jQuery | Livewire | Axios | Bootstrap | TailwindCSS | MySQL | RESTful API
 
 **DevOps & Tools**  
 - GitHub | DigitalOcean | Asana | ClickUp | Payment Gateway Integration | Docker | Composer | NPM | VSCode | Postma | CI/CD Pipelines | AWS (basic) | Linux | Trello | GitHub Actions
