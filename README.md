@@ -84,7 +84,7 @@ A flexible e-learning system supporting institutions and enterprises. Offers int
 ---
 
 ### 🏢 Advanced B2B Platform  
-**🔗 [Live Demo](https://devjapandesk.basis.org.bd/)**  
+**🔗 [Live Demo](https://japandesk.basis.org.bd/)**  
 Enterprise-grade B2B marketplace for manufacturers, suppliers, and wholesalers. Enables quotation handling, bulk orders, secure transactions, and ERP integrations.
 
 **Key Features**  
